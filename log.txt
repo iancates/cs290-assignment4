@@ -1,1 +1,7 @@
 Start: Tue, 28 Apr 2015 9:53:42 -0800
+Got the variables using GET, then checked if they were valid. It works
+End: Tue, 28 Apr 2015 11:05:10 -0800
+
+Start: Tue, 28 Apr 2015 2:19:33 -0800
+Was able to make the table.
+End: Tue, 28 Apr 2015 3:01:44 -0800
