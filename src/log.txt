@@ -1,0 +1,22 @@
+Start: Tue, 28 Apr 2015 09:53:42 -0800
+Got the variables using GET, then checked if they were valid. It works
+End: Tue, 28 Apr 2015 11:05:10 -0800
+
+Start: Tue, 28 Apr 2015 14:19:33 -0800
+Was able to make the table.
+End: Tue, 28 Apr 2015 3:01:44 -0800
+
+
+
+Start: Wed, 29 Apr 2015 10:39:41 -0800
+started loopback.php
+Think I finished loopback.
+Still have some question about whether it is righ.
+End: Wed, 29 Apr 2015 11:05:26 -0800
+
+Start: Wed, 29 Apr 2015 14:06:44 -0800
+Started login.php
+Had trouble getting content1 to log out right.
+did some research and got it to log out.
+finished login.php
+End: Wed, 29 Apr 2015 16:50:09 -0800
